@@ -1,4 +1,4 @@
-# Danish Ilyas | Computational Chemist & Data Scientist
+# DANISH ILYAS | Computational Chemist & Materials Scientist
 
 <p align="left">
   <a href="mailto:sheikhdani579@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -9,16 +9,16 @@ I am a Master's student in Chemistry at COMSATS University, specializing in the 
 
 ---
 
-### 🔬 **MS Thesis Research**
+### 🔬 MS Thesis Research
 
-My current research involves developing an integrated workflow for screening **Metal-Organic Frameworks (MOFs)** for efficient **CO₂/H₂ separation**. This project combines:
+My current research involves developing an integrated workflow for screening **Metal-Organic Frameworks (MOFs)** for efficient **CO₂/H₂ separation**. This project involves:
 - **Molecular Simulations:** Using GCMC (RASPA2) and MD (LAMMPS) to predict material properties.
 - **Data Analysis:** Using Python libraries (Pandas, NumPy) to process large datasets from simulations.
 - **Machine Learning:** Building predictive models with Scikit-learn to establish structure-property relationships.
 
 ---
 
-### 💻 **Core Technical Skills**
+### 💻 Core Technical Skills
 
 **Computational Chemistry:**
 - **Software:** Gaussian, LAMMPS, RASPA2, GROMACS, VMD
@@ -30,3 +30,5 @@ My current research involves developing an integrated workflow for screening **M
 - **Tools:** Git, Jupyter Notebook, VS Code
 
 ---
+
+Feel free to explore my pinned repositories below to see examples of my work.
