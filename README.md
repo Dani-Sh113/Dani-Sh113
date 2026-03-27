@@ -1,34 +1,15 @@
-# DANISH ILYAS | Computational Chemist & Materials Scientist
+# 💫 About Me:
+I hold a Master's degree in Chemistry from COMSATS University, specializing in the application of multiscale computational methods (DFT, GCMC, MD) and machine learning to solve challenges in materials science. I am passionate about using code to accelerate scientific discovery and am actively seeking a funded PhD position in computational chemistry for the March 2026 intake.<br><br><br>🔭 I’m currently working on: an integrated workflow screening MOFs for efficient CO₂/H₂ separation using RASPA2, LAMMPS, and Python.<br><br>👯 I’m looking to collaborate on: projects involving Computational Materials Science, predictive modeling, and applying AutoML pipelines.<br><br>🤝 I’m looking for help with: advanced AI applications in materials design and securing a funded PhD position.<br><br>🌱 I’m currently learning: OpenClaw, AutoResearchClaw, NemoClaw, and Generative AI Prompt Engineering.<br><br>💬 Ask me about: Python (Pandas/NumPy/Scikit-learn), DFT, Molecular Dynamics, GCMC simulations, and TPOT (AutoML).<br><br>⚡ Fun fact: I hold certifications in AI/Data Science from IBM and U-M, manage a 2,000+ member network, and study Korean, German, and Turkish!<br><br>Socials Section (GPRM Tab):<br><br>GitHub: Dani-Sh113<br><br>LinkedIn: danish-261a40238<br><br>Email: sheikhdani579@gmail.com
 
-<p align="left">
-  <a href="mailto:sheikhdani579@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/danish-261a40238"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
-I am a Master's student in Chemistry at COMSATS University, specializing in the application of computational methods and machine learning to solve challenges in materials science. My research focuses on developing high-throughput computational workflows to discover and design new materials. I am passionate about using code to accelerate scientific discovery and am actively seeking a PhD position in computational chemistry for the March 2026 intake.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danish-261a40238) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sheikhdani579@gmail.com) 
 
----
-
-### 🔬 MS Thesis Research
-
-My current research involves developing an integrated workflow for screening **Metal-Organic Frameworks (MOFs)** for efficient **CO₂/H₂ separation**. This project involves:
-- **Molecular Simulations:** Using GCMC (RASPA2) and MD (LAMMPS) to predict material properties.
-- **Data Analysis:** Using Python libraries (Pandas, NumPy) to process large datasets from simulations.
-- **Machine Learning:** Building predictive models with Scikit-learn to establish structure-property relationships.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dani-Sh113&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dani-Sh113&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Sh113&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-### 💻 Core Technical Skills
-
-**Computational Chemistry:**
-- **Software:** Gaussian, LAMMPS, RASPA2, GROMACS, VMD
-- **Techniques:** DFT, Molecular Dynamics (MD), Monte Carlo (GCMC)
-
-**Programming & Data Science:**
-- **Languages:** Python
-- **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
-- **Tools:** Git, Jupyter Notebook, VS Code
-
----
-
-Feel free to explore my pinned repositories below to see examples of my work.
